@@ -1,0 +1,1 @@
+docker tag simple-web-python:latest kchris000/simple-web-python:latest

@@ -1,0 +1,1 @@
+docker run -rm -d -p 7070:7070 --name=simpleWebPython simple-web-python

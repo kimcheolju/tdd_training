@@ -1,0 +1,1 @@
+docker push kchris000/simple-web-python:latest
